@@ -7,7 +7,7 @@
     "test": "echo \"Error: no test specified\" && exit 1",
     "start": "node index.js"
   },
-  "author": "Seth Baughman",
+  "author": "Michael Ketiku",
   "license": "ISC",
   "dependencies": {
     "dotenv": "^2.0.0",

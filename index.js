@@ -13,8 +13,8 @@ dotenv.load();
 
 // Authenticate with firebase
 firebase.initializeApp({
-  serviceAccount: "firebase-credentials-pm.json",
-  databaseURL: "https://mutant-hours-pm.firebaseio.com"
+  serviceAccount: "firebase-credentials.json",
+  databaseURL: "https://mutant-office-hours-fdc14.firebaseio.com"
 });
 var rootRef = firebase.database().ref();
 
